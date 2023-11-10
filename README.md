@@ -1,6 +1,8 @@
 # Micro-Maya
 A mini version of Autodesk Maya, complete with mesh and joint editing
 
+<iframe src="https://drive.google.com/file/d/1ZV-p0wnIdfCDwMD4_ZKjRfxgjDfDbzV3/preview" width="640" height="480" allow="autoplay"></iframe>
+
 MESH CLASS:
   Stores Half Edges, Faces, and Vertices. This class also inherits from Drawable, and is drawn in MyGL()::paintGL().
 
