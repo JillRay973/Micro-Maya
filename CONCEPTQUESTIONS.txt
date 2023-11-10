@@ -1,0 +1,5 @@
+Hw6 - Jillian Rayca
+
+1) When performing Catmull-Clark subdivisions, you must temporarily store the original vertices and newly created vertices for the face that is being subdivided, so that way you know where the new vertices will be placed in relation to the old ones after you have subdivided. You also need to do the same for edges and half-edges. For each edge, you should keep a record of its two half edges (post subdivision) so that way you can properly connect the newly created vertices, edges, and half-edges.
+
+2) After all of the edges have been turned into quadrangles after an extrusion, you have to perform vertex split. This operation splits the vertices along the extruded edges in order to ensure that the new faces created during the xtrusion process don't overlap. In the first iteration, you are essentially copying the original face, but after that, you have to do vertex split in order to maintain proper connectivity.

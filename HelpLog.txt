@@ -1,0 +1,57 @@
+HELP LOG: Homework 5 - Jillian Rayca
+
+Stack Overflow and C++ Users - Setting up a class properly in c++ (was a little confused on h file with all of the different sources and files and just wanted to make sure I was including the right things)
+
+C++ Users - Drawarble class implementations
+
+Lecture Slides and previous homeworks - uptr rules and implementations
+
+sfml-dev.org : drawable class reference
+
+OpenGL hw: mesh create with vbos
+
+Stack Overflow: GUI display implementation review with connections
+		OBJ import
+
+hw0 demo: signal implementation with buttons
+
+hw3: QFile Dialog opening example
+
+
+HELP LOG: Homework 6 - Jillian Rayca
+
+Study Group: Fixing Obj import
+
+Lecture Slides and MegaByte Softworks (https://www.mbsoftworks.sk/tutorials/opengl4/026-camera-pt3-orbit-camera/): Polar Coordinates and Camera Implementation
+
+Hw5 and Hw3: connections and slots review
+
+GeeksforGeeks (https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/): unordered sets 
+
+Hw3: Triangulate reference
+
+Lecture Slides, Study Group and Stack Overflow: Quadrangulate, smooth, and midpoint implementations for Subdivision
+
+OH: Final implementations of Subdivision
+
+HELP LOG: Homework 7 - Jillian Rayca
+Study Group (Lily Brenner, Raymond Feng) - Concept Questions discussion 
+
+
+Running in debugger - Program kept crashing
+
+Stack Overflow, QT Forum, and Ed Post - this error message from the debugger "The inferior stopped because it received a signal from the operating system.
+
+Signal name : 
+SIGSEGV
+Signal meaning : 
+Segmentation fault
+"
+Stack Overflow and QT Forum: Skeleton generation
+
+Debugger: Json and skeleton was loading, but obj was not
+
+Lecture Slides: Rotation and Quaternions Review
+
+SceneGraph hw: branched treewidgets for joint movement implementation
+
